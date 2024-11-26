@@ -1,3 +1,9 @@
+<div align="left"><a name="readme-top"></a>
+
+- 👋 I'm Viky. Currently working in Web and Flutter development.
+
+- 🔭 In the future, I hope I can keep up with my studies and become a full-stack engineer in the health profession.
+
 <div align="center"><a name="readme-top"></a>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -12,9 +18,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=chen-viky&include_all_commits=true&count_private-true&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-viky&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9&layout=compact)
-
-<!-- <p align="left">I‘m Viky. A programme developer and love science.
-<br/>
-I hope to focus and stay more focused on programming in the time to come.<br/>
-🌈 To become a full stack developer for health professionals.
-</p> -->
