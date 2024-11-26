@@ -2,7 +2,7 @@
 
 - 👋 I'm Viky. Currently working in Web and Flutter development.
 
-- 🔭 In the future, I hope I can keep up with my studies and become a full-stack engineer in the health profession.
+- 🔭 In the future, I hope I can keep learning and become a more professional full-stack engineer.
 
 <div align="center"><a name="readme-top"></a>
 
