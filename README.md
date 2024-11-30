@@ -31,4 +31,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viky-chen&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9&layout=compact)
 
-## Then, I want to share about my pet
+<!-- ## Then, I want to share about my pet -->
