@@ -26,7 +26,9 @@
 
 <div align="left"><a name="readme-top"></a>
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=chen-viky&include_all_commits=true&count_private-true&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9&layout=compact) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=viky-chen&include_all_commits=true&count_private-true&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9&layout=compact) -->
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-viky&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=viky-chen&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9&layout=compact)
+
+## Then, I want to share about my pet
