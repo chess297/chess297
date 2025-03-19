@@ -1,4 +1,4 @@
-# 🖖 there, I'm a frontend developer from 🇨🇳
+# 🖖 there, I'm a developer from 🇨🇳
 
 <div align="center"><a name="readme-top"></a>
 
